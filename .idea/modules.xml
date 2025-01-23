@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Contructors/Contructors.iml" filepath="$PROJECT_DIR$/Contructors/Contructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Core_Java.iml" filepath="$PROJECT_DIR$/.idea/Core_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_Program/First_Program.iml" filepath="$PROJECT_DIR$/First_Program/First_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method_Overloading/Method_Overloading.iml" filepath="$PROJECT_DIR$/Method_Overloading/Method_Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime_or_not/Prime_or_not.iml" filepath="$PROJECT_DIR$/Prime_or_not/Prime_or_not.iml" />
     </modules>
   </component>
 </project>
